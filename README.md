@@ -12,3 +12,4 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT02 Game Desing Document (GDD) 
 * BT03 Setting Up a GitHub "Repo"
 * BT04 Creating Our First Landscape
+* BT05 Landscape Setup & Scaling
