@@ -19,4 +19,5 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT10 More Landscaping Tools
 * BT11 Tank Control System
 * BT12 Actors from Multiple Meshes
-* BT13 Configuringa Tank
+* BT13 Configuring a Tank
+* BT14 3rd Person Camera Control
