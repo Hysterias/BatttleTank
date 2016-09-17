@@ -24,3 +24,5 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT15 Fixing 3rd Person Camer Rotation
 * BT16 User Interface (UI) in Unreal
 * BT17 Main Menu Screens
+* BT18 UI Scale Bob, Button & Mouse
+* BT19 Controller Ready Navigation
