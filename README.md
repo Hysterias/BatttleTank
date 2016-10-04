@@ -32,3 +32,5 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT23 Creating an AI Controller Class
 * BT24 Get the Player Controller with C++
 * BT25 Add Tick() to PlayerController
+* BT26 Creating an Out Parameter Method
+* BT27 Finding Screen Pixel Coordinates
