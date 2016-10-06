@@ -34,3 +34,4 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT25 Add Tick() to PlayerController
 * BT26 Creating an Out Parameter Method
 * BT27 Finding Screen Pixel Coordinates
+* BT28 Using DeprojectScreenPositionToWorld
