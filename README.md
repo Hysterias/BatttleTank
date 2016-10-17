@@ -36,3 +36,4 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT27 Finding Screen Pixel Coordinates
 * BT28 Using DeprojectScreenPositionToWorld
 * BT29 Using LineTraceSingleByChannel()
+* BT30  Unify Player & AI Aiming
