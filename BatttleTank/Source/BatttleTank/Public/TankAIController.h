@@ -18,6 +18,8 @@ private:
 
 	virtual void BeginPlay() override;
 
+	virtual void Tick(float DeltaSeconds) override;
+
 	ATank*  GetControlledTrank() const;
 
 	ATank* GetPlayerTank() const;
