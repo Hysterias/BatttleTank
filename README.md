@@ -38,3 +38,4 @@ Part of the Complete Unreal Creator course on Udemy, see [here](https://www.udem
 * BT29 Using LineTraceSingleByChannel()
 * BT30  Unify Player & AI Aiming
 * BT31 Create Default Sub Objects in C++
+* BT32 BlueprintCallable()
